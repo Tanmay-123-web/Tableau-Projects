@@ -1,62 +1,69 @@
-📊 Revenue, Growth & Efficiency Analysis – Tableau Dashboard
+# Data Analytics Dashboards 📊
 
-This Tableau dashboard provides a complete analysis of Revenue, Units Sold, Category Performance, Platform Comparison, Return Rate, and Year-over-Year Growth.
-It includes interactive KPIs, heatmaps, bubble charts, and trend visuals to help identify top-performing categories, high-efficiency products, and overall business growth patterns.
+This repository contains multiple end-to-end **Data Analytics projects** built using **Tableau, Excel, and CSV datasets**, focusing on sales performance, HR analytics, revenue growth, and business insights.
 
+---
 
-* Key Features
+## 🔹 Projects Included
 
-Year-wise & country-wise growth comparison
+### 1️⃣ HR Attrition Analysis
+- Tool: Tableau
+- Dataset: HR Attrition Data
+- Insights:
+  - Employee attrition trends
+  - Department-wise attrition
+  - Key factors impacting attrition
 
-Category-wise revenue analysis
+### 2️⃣ Retail Sales Analysis Dashboard
+- Tool: Tableau
+- Focus:
+  - Sales trends
+  - Regional performance
+  - Product-wise revenue
 
-Platform-wise sales heatmap (Amazon, iHerb, Walmart)
+### 3️⃣ Revenue, Growth & Efficiency Dashboard
+- Tool: Tableau
+- Insights:
+  - Revenue growth analysis
+  - Operational efficiency
+  - KPI tracking
 
-Return rate bubble chart
+### 4️⃣ Tech Product Sales Analysis
+- Tool: Tableau & Excel
+- Dataset: Tech_Products_Sales_Data.xlsx
+- Insights:
+  - Product performance
+  - Sales contribution
+  - Trend analysis
 
-Revenue vs Volume correlation
+### 5️⃣ Supplement Sales Analysis
+- Tool: Tableau
+- Dataset: CSV
+- Focus:
+  - Weekly sales trends
+  - Category performance
 
-Growth vs Stability multi-year trend
+---
 
-Tools Used: Tableau, Excel (data prep).
+## 🛠 Tools & Technologies
+- Tableau
+- Microsoft Excel
+- CSV / XLSX Datasets
+- Data Cleaning & Transformation
+- Data Visualization & Dashboards
 
+---
 
+## 📌 Skills Demonstrated
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- KPI Design & Tracking  
+- Dashboard Development  
+- Business Insights & Storytelling  
 
-🎯 Business Impact
+---
 
-This dashboard enables:
-
-Faster data-driven decisions
-
-Clear visibility into growth, profitability, and operational efficiency
-
-Identification of product categories needing improvement
-
-Platform-level performance optimization
-
-Strategic planning across markets.
-
-
-🛠️ Tools & Technologies Used
-
-Tableau Desktop
-
-Data Cleaning & Preprocessing (Excel / CSV)
-
-Visualization & Dashboard Design
-
-KPI Calculations & Interactive Filters.
-
-
-📁 Project Files
-
-Tableau Workbook (.twb / .twbx)
-
-Dataset (CSV/Excel)
-
-Dashboard Screenshots
-
-👤 Author
-
-Tanmay Shitap
-Data Analyst | Tableau | SQL | Python | Excel
+## 👤 Author
+**Tanmay Shitap**  
+Aspiring Data Analyst  
+GitHub: https://github.com/Tanmay-123-web
