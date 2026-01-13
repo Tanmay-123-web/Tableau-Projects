@@ -42,8 +42,27 @@ This repository contains multiple end-to-end **Data Analytics projects** built u
 - Focus:
   - Weekly sales trends
   - Category performance
-
+    
 ---
+### 6️⃣ Interactive Tableau Resume Dashboard
+
+Tool: Tableau
+Objective: Present a professional profile as an interactive data-driven resume instead of a static CV.
+Key Highlights:
+Profile summary with quick access to GitHub, LinkedIn, Tableau Public & Email
+Education timeline (SSC, HSC, B.Sc Computer Science)
+Technical skill ratings (Excel, SQL, Python, Power BI, Tableau)
+Core analytics skills visualization
+Projects timeline overview
+Certifications showcase (Deloitte, Tata, HP Life, Forage)
+Language proficiency (Marathi, Hindi, English
+
+Skills Demonstrated:
+Dashboard design & UI/UX
+Data storytelling
+Professional data presentation
+
+Tableau visualization best practices
 
 ## 🛠 Tools & Technologies
 - Tableau
